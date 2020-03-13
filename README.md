@@ -1,1 +1,1 @@
-# PG_Talk
+# Android chat application using PostgreSQL, Firebase
